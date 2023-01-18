@@ -10,7 +10,6 @@ spec:
       - namespace: team-a
       - namespace: team-b
       - namespace: team-c
-      - namespace: team-d
       - namespace: staging
   template:      
     metadata:
